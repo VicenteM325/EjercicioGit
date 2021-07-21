@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-Haciendo el conflicto en Git
-=======
   "Tactica y Estrategia"
   
   Mi táctica es
 mirarte
 aprender como sos
 quererte como sos
->>>>>>> e9ad936da83d45493fc03c45c4da433df0e465b7
+
